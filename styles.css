@@ -42,6 +42,10 @@ li {
   padding: 0px;
 }
 
+a {
+  color: black;
+}
+
 button {
   height: 56px;
   border-radius: 16px;
@@ -350,6 +354,7 @@ footer {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  margin-bottom: 16px;
 }
 
 .section-contact-item-icon {
@@ -373,43 +378,4 @@ footer {
   align-items: center;
   justify-content: space-between;
   width: 40%;
-}
-
-@media only screen and (max-device-width: 450px) {
-  .content-container {
-    width: 96vw;
-    max-width: 96vw;
-  }
-
-  .barra-de-navegacao {
-    width: 100%;
-  }
-
-  .hero-info-image {
-    width: 202px;
-  }
-
-  .hero-info-image {
-    width: 100%;
-  }
-
-  .ability-cards-container {
-    row-gap: 36px;
-    grid-template-columns: auto;
-    margin-top: 12px;
-  }
-
-  .section-portfolio-grid {
-    grid-template-columns: auto;
-    row-gap: 24px;
-    margin-top: 24px;
-  }
-
-  .section-experiences-card {
-    width: 90vw;
-  }
-
-  .footer-content {
-    width: 100%;
-  }
 }
