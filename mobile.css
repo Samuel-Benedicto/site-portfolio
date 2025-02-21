@@ -1,7 +1,7 @@
 @media only screen and (max-device-width: 450px) {
   button {
-    height: 64px;
-    font-size: 20px;
+    height: 80px;
+    font-size: 24px;
     padding-left: 12px;
     padding-right: 12px;
   }
@@ -47,7 +47,14 @@
   }
 
   .hero-info-title {
+    font-size: 58px;
     margin-top: 5vw;
+  }
+
+  .hero-info-subtitle {
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: 18px;
   }
 
   .hero-info {
@@ -59,7 +66,7 @@
   }
 
   .section-abilities {
-    margin-top: 10vw;
+    margin-top: 15vw;
   }
 
   .ability-cards-container {
@@ -82,6 +89,17 @@
 
   .section-experiences-card {
     width: 90vw;
+  }
+
+  .section-contact-item-icon {
+    width: 48px;
+    height: 48px;
+    margin-right: 16px;
+  }
+
+  .section-contact-item-icon {
+    width: 34px;
+    height: 34px;
   }
 
   .footer-content {
