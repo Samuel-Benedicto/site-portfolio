@@ -19,7 +19,7 @@ The main goal is create a website with my professional information.
 1. Clone the project:
 
 ```
-git clone https://github.com/Samuel-Benedicto/site-portf-lio.git
+git clone https://github.com/Samuel-Benedicto/site-portfolio.git
 ```
 
 2. After clone open the folder:
