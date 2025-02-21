@@ -43,6 +43,7 @@ li {
 }
 
 a {
+  font-size: 24px;
   color: black;
 }
 
@@ -58,6 +59,10 @@ button {
   padding-left: 12px;
   padding-right: 12px;
   cursor: pointer;
+}
+
+p {
+  font-size: 24px;
 }
 
 p.card {
